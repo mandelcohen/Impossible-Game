@@ -682,6 +682,10 @@ PrefabInstance:
       propertyPath: m_SpriteTilingProperty.drawMode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7105942977595036372, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8212103324518870767, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
       propertyPath: m_Name
       value: Ground
