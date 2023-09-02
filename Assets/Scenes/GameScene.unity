@@ -561,7 +561,7 @@ Transform:
   m_GameObject: {fileID: 1261420690}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10, y: 4, z: 0}
+  m_LocalPosition: {x: -16, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -974,7 +974,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5122247356213585594, guid: 643adb8f8ba1843038aa53d91b6bf0a2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 5122247356213585594, guid: 643adb8f8ba1843038aa53d91b6bf0a2, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1031,7 +1031,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5258423943061385648, guid: 423fe05364b19422db2dd2797726f996, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -6
       objectReference: {fileID: 0}
     - target: {fileID: 5258423943061385648, guid: 423fe05364b19422db2dd2797726f996, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1096,7 +1096,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3096860304995788348, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.5
+      value: -8
       objectReference: {fileID: 0}
     - target: {fileID: 3096860304995788348, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1133,6 +1133,18 @@ PrefabInstance:
     - target: {fileID: 3096860304995788348, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6158427793694628388, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
+      propertyPath: m_Color.b
+      value: 0.50863296
+      objectReference: {fileID: 0}
+    - target: {fileID: 6158427793694628388, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5393269
+      objectReference: {fileID: 0}
+    - target: {fileID: 6158427793694628388, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8490566
       objectReference: {fileID: 0}
     - target: {fileID: 7105942977595036372, guid: a3bea0cdf92d64f9fa01a175ae0b82b5, type: 3}
       propertyPath: m_SpriteTilingProperty.drawMode
